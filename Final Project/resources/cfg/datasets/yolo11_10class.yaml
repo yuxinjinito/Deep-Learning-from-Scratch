@@ -1,0 +1,17 @@
+path: E:/dts101 pj/resources/demo_2000
+train: images/train
+val: images/val
+
+
+names:
+  0: person
+  1: cat
+  2: dog
+  3: bottle
+  4: banana
+  5: orange
+  6: chair
+  7: laptop
+  8: book
+  9: backpack
+ 
