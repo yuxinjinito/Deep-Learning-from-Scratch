@@ -1,4 +1,4 @@
-## Deep Learning Course Projects 
+## Deep Learning from Scratch
 
 This repository collects all coursework for a deep learning class, including five foundational assignments and a final custom object detection project.
 
