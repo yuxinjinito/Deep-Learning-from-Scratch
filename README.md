@@ -23,7 +23,7 @@ This repository collects all coursework for a deep learning class, including fiv
   - Implemented a Keras CNN for Fashion‑MNIST (28×28 grayscale, 10 classes).  
   - Two Conv2D+MaxPool+Dropout blocks followed by Flatten+Dense; trained with categorical cross‑entropy and Adam, and visualized predictions.
 
-- **Final Project – Custom Object Detection with YOLO**  
+- **Final Project – Custom Object Detection (YOLO)**  
   - Collected and annotated a web‑crawled 10‑class image dataset; built train/val/test splits (≈1863/200/220 images).  
   - Trained a YOLOv11‑based detector (Ultralytics) under GPU memory constraints (batch size, learning rate, optimizer, early stopping).  
   - Evaluated on the validation set (200 images, 518 instances) with mAP@0.5 = 0.34 and mAP@[0.5:0.95] = 0.23, and analyzed errors using confusion matrices and prediction visualizations.
