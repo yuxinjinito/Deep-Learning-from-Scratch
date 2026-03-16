@@ -35,4 +35,4 @@ The overall course project structure is summarized in the following mind map:
 - Editable source: `docs/overview.xmind`
 - Exported pdf: `docs/overview.pdf`
 - Exported image:
-![Overview](docs/overview.png)
+![Overview](docs/Overview.png)
